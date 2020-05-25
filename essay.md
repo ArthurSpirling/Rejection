@@ -211,6 +211,7 @@ rejected: all five of us got dinged, and I know for a fact we don't
 political science is moving towards team production as a valid and
 common mode, it is not yet ubiquitous---and especially not early in
 one's career.  And there are reasons, some good, as to why this is. So simply saying "write with others", which often boils down to "write with senior people who can get things into journals" may not be particularly helpful advice.
+
 But there are several observations that come from this. First, academia
 is about networks. And, rightly or wrongly, success in academia is
 about networks of powerful people who want you to do well. Going to
