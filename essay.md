@@ -2,8 +2,8 @@
 
 "Your Submission."
 
-There it is. The email from the journal. You freeze. Boom, BOom, BOOm, BOOM. Your heart pounds. You swallow. Excitement, anxiety. Click. ``Dear Professor", well at least they're polite. Scan the first para. Where is it? Where's the decision? 
-"I have now received three reviews..." the editor drones on in officialese. Yes, yes, and what did they say? ``As you can see, the reviews are mixed."  The fucking reviews are fucking mixed? Fuck. You know what comes next. Not even
+There it is. The email from the journal. You freeze. Boom, BOom, BOOm, BOOM. Your heart pounds. You swallow. Excitement, anxiety. Click. "Dear Professor", well at least they're polite. Scan the first para. Where is it? Where's the decision? 
+"I have now received three reviews..." the editor drones on in officialese. Yes, yes, and what did they say? "As you can see, the reviews are mixed."  The fucking reviews are fucking mixed? Fuck. You know what comes next. Not even
 worth reading really. They've decided  to "decline" (OH FUCK OFF!) your manuscript. But the Editor hopes you'll send your work there again. Fuck. What a disappointment. Rejected. Fuck. That's ruined the day. The week.
 And it's only 146pm.  Got to teach later.
 
