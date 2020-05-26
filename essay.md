@@ -113,7 +113,7 @@ however, is that it isn't very comforting once you are on the
 tenure track. That's because still *having* the paper is now the
 problem. You worked on it for two years, it's been rejected four
 times before, and the last thing you actually want to still have is
-this fucking thing. You want to now \textit{not} have the paper, because its
+this fucking thing. You want to now *not* have the paper, because its
 been published in a journal.
 
 
