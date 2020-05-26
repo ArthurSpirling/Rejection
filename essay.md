@@ -45,7 +45,7 @@ dislike you personally, and are not making their decisions on this
 basis. The problem, of course, is that this is bullshit. First,
 your work---on which you might spend years just getting the
 data---is, in fact, very personal. You are the person most
-associated with this idea or technique or data. So rejecting a
+associated with this idea or technique or data. So a referee rejecting a
 paper focussed on that idea or technique or data certainly feels
 personal. Personal to you, in particular. But second, this sort of
 comment implicitly assumes that publishing, and success more
