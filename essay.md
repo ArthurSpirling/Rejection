@@ -61,7 +61,7 @@ this won't do.
 
 
 Better. But still flawed. First, when I picked up the big journals,
-they seemed full of junior professor's work. Just not mine. And
+they seemed full of junior professors' work. Just not mine. And
 about 90% of academic twitter and Facebook posts seemed to be about
 celebrating doing better than the other junior professors (specifically, me).
 Not-so-humble brags. So it was through gritted teeth that I
@@ -220,7 +220,7 @@ reading this essay, I doubt that's a choice variable for you right
 now. Co-authoring with people helps you build those networks. A
 lot. But so does almost anything that involves you being in contact
 with them: emails, small conferences, etc. I spent too much of my
-early career feeling---and therefore acting---as if I was on
+early career feeling---and therefore acting---as if I was on the
 periphery. People thought I was stand-offish and aloof, when I was
 in fact simply suffering from an extreme form of imposter syndrome.
 My biggest career regret is not throwing myself into the networks I
