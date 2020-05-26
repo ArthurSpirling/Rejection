@@ -110,7 +110,7 @@ could still submit it elsewhere. It was still "good work" (it
 wasn't), and so would "find a place" at another great journal (it
 wouldn't, because it was bad). The problem with this advice,
 however, is that it isn't very comforting once you are on the
-tenure track. That's because still \textit{having} the paper is now the
+tenure track. That's because still *having* the paper is now the
 problem. You worked on it for two years, it's been rejected four
 times before, and the last thing you actually want to still have is
 this fucking thing. You want to now \textit{not} have the paper, because its
