@@ -176,7 +176,7 @@ Be proud you didn't do that.
 - "no one knows, and no one cares"
 
 
-Rejections are intensely personal. Doubtless, you are going through your own private hell as journal after journal declines your best work. But it is *private*---other than the editor (who is handing down 1200 other rejections this year) and maybe the reviewers, no one else knows you have been rejected if you don't tell them.  That's not a reason to keep in secret, but it does suggest any shame or embarrassment you feel is entirely self-imposed.  An interesting consequence of this is that everybody else thinks your career is going better than you do: they only see the *successes* on your CV (the PhD you got, the papers you've published, the grants you won).  And that's the people who actually spend time thinking about your output---which to a first approximation is absolutely no one.  No one cares.
+Rejections are intensely personal. Doubtless, you are going through your own private hell as journal after journal declines your best work. But it is *private*---other than the editor (who is handing down 1200 other rejections this year) and maybe the reviewers, no one else knows you have been rejected if you don't tell them.  That's not a reason to keep it secret, but it does suggest any shame or embarrassment you feel is entirely self-imposed.  An interesting consequence of this is that everybody else thinks your career is going better than you do: they only see the *successes* on your CV (the PhD you got, the papers you've published, the grants you won).  And that's the people who actually spend time thinking about your output---which to a first approximation is absolutely no one.  No one cares.
 
 ## What made me feel better
 
@@ -221,7 +221,7 @@ now. Co-authoring with people helps you build those networks. A
 lot. But so does almost anything that involves you being in contact
 with them: emails, small conferences, etc. I spent too much of my
 early career feeling---and therefore acting---as if I was on the
-periphery. People thought I was stand-offish and aloof, when I was
+periphery. People thought I was standoffish and aloof, when I was
 in fact simply suffering from an extreme form of imposter syndrome.
 My biggest career regret is not throwing myself into the networks I
 could have.
