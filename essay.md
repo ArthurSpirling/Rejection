@@ -2,10 +2,10 @@
 
 "Your Submission."
 
-There it is. The email from the journal. You freeze. Boom, BOom, BOOm, BOOM. Your heart pounds. You swallow. Excitement, anxiety. Click. "Dear Professor", well at least they're polite. Scan the first para. Where is it? Where's the decision? 
+There it is. The email from the journal. You freeze. Boom, BOom, BOOm, BOOM. Your heart pounds. You swallow. Excitement, anxiety. Click. "Dear Professor", well at least they're polite. Scan the first paragraph. Where is it? Where's the decision? 
 "I have now received three reviews..." the editor drones on in officialese. Yes, yes, and what did they say? "As you can see, the reviews are mixed."  The fucking reviews are fucking mixed? Fuck. You know what comes next. Not even
 worth reading really. They've decided  to "decline" (OH FUCK OFF!) your manuscript. But the Editor hopes you'll send your work there again. Fuck. What a disappointment. Rejected. Fuck. That's ruined the day. The week.
-And it's only 146pm.  Got to teach later.
+And it's only 1:46pm. Got to teach later.
 
 If the above sounds at all familiar, welcome to the club: you've been rejected from a journal. This is a short essay about that
 experience, and what to do about it. I write it as someone who finds himself tenured and shall we say, charitably, "mid-career". I still get plenty of rejections, but they don't sting as much as they once did. I won't offer "one weird trick", but I do have some thoughts.
@@ -160,7 +160,7 @@ never, you are either
 in question is Tartarus) or
 2. extremely well-connected and basically everything that is wrong
 with superstar academics (welcome to the real world, Your Majesty!) or
-3.  aiming too low.
+3. aiming too low.
 
 
 That is, rejection is an inevitable consequence of being ambitious
@@ -176,7 +176,7 @@ Be proud you didn't do that.
 - "no one knows, and no one cares"
 
 
-Rejections are intensely personal. Doubtless, you are going through your own private hell as journal after journal declines your best work. But it is *private*---other than the editor (who is handing down 1200 other rejections this year) and maybe the reviewers, no one else knows you have been rejected if you don't tell them.  That's not a reason to keep it secret, but it does suggest any shame or embarrassment you feel is entirely self-imposed.  An interesting consequence of this is that everybody else thinks your career is going better than you do: they only see the *successes* on your CV (the PhD you got, the papers you've published, the grants you won).  And that's the people who actually spend time thinking about your output---which to a first approximation is absolutely no one.  No one cares.
+Rejections are intensely personal. Doubtless, you are going through your own private hell as journal after journal declines your best work. But it is *private*---other than the editor (who is handing down 1200 other rejections this year) and maybe the reviewers, no one else knows you have been rejected if you don't tell them. That's not a reason to keep it secret, but it does suggest any shame or embarrassment you feel is entirely self-imposed. An interesting consequence of this is that everybody else thinks your career is going better than you do: they only see the *successes* on your CV (the PhD you got, the papers you've published, the grants you won). And that's the people who actually spend time thinking about your output---which to a first approximation is absolutely no one. No one cares.
 
 ## What made me feel better
 
@@ -186,7 +186,7 @@ Rejections are intensely personal. Doubtless, you are going through your own pri
 A lot of life hacks you read are about "living in the moment". This
 is a hard sell to tenure-track academics, where one's career tends
 to be in two stages: pressure and ceaseless stress for five or six
-years, followed by, well, whatever you want.  Of course, a tenured professor's life is not without stress and hardship, but relative to other paths, the job is a very fulfilling and secure one. The reason I was trying so hard to publish, and why I took rejections so poorly, was that I thought of myself as being in the "bad times"
+years, followed by, well, whatever you want. Of course, a tenured professor's life is not without stress and hardship, but relative to other paths, the job is a very fulfilling and secure one. The reason I was trying so hard to publish, and why I took rejections so poorly, was that I thought of myself as being in the "bad times"
 and trying to get to the "good times". Every paper felt make or
 break. I found it hard to imagine I would write more papers, and
 that they would get better: how could anything be better than my
@@ -210,7 +210,7 @@ rejected: all five of us got dinged, and I know for a fact we don't
 *all* suck. A problem shared is a problem halved and all that. While
 political science is moving towards team production as a valid and
 common mode, it is not yet ubiquitous---and especially not early in
-one's career.  And there are reasons, some good, as to why this is. So simply saying "write with others", which often boils down to "write with senior people who can get things into journals" may not be particularly helpful advice.
+one's career. And there are reasons, some good, as to why this is. So simply saying "write with others", which often boils down to "write with senior people who can get things into journals" may not be particularly helpful advice.
 
 But there are several observations that come from this. First, academia
 is about networks. And, rightly or wrongly, success in academia is
@@ -239,6 +239,6 @@ So what does this essay add up to? If you've just been rejected, it
 probably doesn't make you feel much better. I don't have the
 struggles you have. I am old (40), and you are young (34):
 standards were lower in my day (2015) than they are now (2020). But if it just makes you pause. And not quit the field. And not feel worthless. It will have
-been worth it.  It's just a rejection.  Life goes on.
+been worth it. It's just a rejection. Life goes on.
 
 But seriously, fuck that fucking reviewer. What an asshole. My God. What a fucking world.
